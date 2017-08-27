@@ -1,0 +1,6 @@
+[submodule "comment-app-react"]
+	path = comment-app-react
+	url = git@github.com:Raoul1996/comment-app-react.git
+[submodule "make-redux"]
+	path = make-redux
+	url = git@github.com:Raoul1996/make-redux.git
